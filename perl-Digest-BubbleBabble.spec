@@ -2,7 +2,7 @@
 %define		pdir	Digest
 %define		pnam	BubbleBabble
 Summary:	Digest::BubbleBabble Perl module - create bubble-babble fingerprints
-Summary(pl):	Modu³ perla Digest::BubbleBabble - tworz±cy odciski palca "bubble-babble"
+Summary(pl):	Modu³ Perla Digest::BubbleBabble - tworzenie odcisków palców "bubble-babble"
 Name:		perl-Digest-BubbleBabble
 Version:	0.01
 Release:	2
