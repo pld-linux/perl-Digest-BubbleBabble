@@ -5,7 +5,7 @@ Summary:	Digest::BubbleBabble Perl module - create bubble-babble fingerprints
 Summary(pl):	Modu³ perla Digest::BubbleBabble - tworz±cy odciski palca "bubble-babble"
 Name:		perl-Digest-BubbleBabble
 Version:	0.01
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
