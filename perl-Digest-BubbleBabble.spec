@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Digest
-%define		pnam	BubbleBabble
+%define	pdir	Digest
+%define	pnam	BubbleBabble
 Summary:	Digest::BubbleBabble - create bubble-babble fingerprints
 Summary(pl):	Digest::BubbleBabble - tworzenie odcisków palców "bubble-babble"
 Name:		perl-Digest-BubbleBabble
