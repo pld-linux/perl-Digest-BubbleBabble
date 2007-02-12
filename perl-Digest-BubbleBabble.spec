@@ -2,7 +2,7 @@
 %define		pdir	Digest
 %define		pnam	BubbleBabble
 Summary:	Digest::BubbleBabble - create bubble-babble fingerprints
-Summary(pl):	Digest::BubbleBabble - tworzenie odcisków palców "bubble-babble"
+Summary(pl.UTF-8):   Digest::BubbleBabble - tworzenie odciskÃ³w palcÃ³w "bubble-babble"
 Name:		perl-Digest-BubbleBabble
 Version:	0.01
 Release:	3
@@ -25,13 +25,13 @@ words, to make the fingerprint easier to remember.  The "words" are
 not necessarily real words, but they look more like words than a
 string of hex characters.
 
-%description -l pl
-Modu³ Perla Digest::BubbleBabble przyjmuje skrót wiadomo¶ci
-(wygenerowany algorytmem skrótu MD5 lub SHA-1) i tworzy odcisk palca
-tego skrótu w formacie "bubble babble". Format ten to sposób
-reprezentowania skrótu wiadomo¶ci jako ci±gu "prawdziwych" s³ów, aby
-uczyniæ odcisk ³atwiejszym do zapamiêtania. "S³owa" niekoniecznie s±
-prawdziwymi s³owami, ale wygl±daj± jak s³owa bardziej ni¿ ci±g cyfr
+%description -l pl.UTF-8
+ModuÅ‚ Perla Digest::BubbleBabble przyjmuje skrÃ³t wiadomoÅ›ci
+(wygenerowany algorytmem skrÃ³tu MD5 lub SHA-1) i tworzy odcisk palca
+tego skrÃ³tu w formacie "bubble babble". Format ten to sposÃ³b
+reprezentowania skrÃ³tu wiadomoÅ›ci jako ciÄ…gu "prawdziwych" sÅ‚Ã³w, aby
+uczyniÄ‡ odcisk Å‚atwiejszym do zapamiÄ™tania. "SÅ‚owa" niekoniecznie sÄ…
+prawdziwymi sÅ‚owami, ale wyglÄ…dajÄ… jak sÅ‚owa bardziej niÅ¼ ciÄ…g cyfr
 szesnastkowych.
 
 %prep
