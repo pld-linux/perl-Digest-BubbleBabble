@@ -4,13 +4,13 @@
 Summary:	Digest::BubbleBabble - create bubble-babble fingerprints
 Summary(pl.UTF-8):	Digest::BubbleBabble - tworzenie odcisków palców "bubble-babble"
 Name:		perl-Digest-BubbleBabble
-Version:	0.01
-Release:	4
+Version:	0.02
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	0e8ef3de82ae909cfaeddf8269140c17
+# Source0-md5:	4d7edd5b0a904db8194aa660d502fbe0
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
